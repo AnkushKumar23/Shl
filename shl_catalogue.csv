@@ -1,0 +1,75 @@
+﻿id,name,description,job_levels,test_type,duration_minutes,remote_testing,adaptive,languages,skills
+1,Verify Numerical Reasoning,"Measures ability to understand and work with numerical data, interpret graphs, tables, and statistics to make decisions.",Graduate,Cognitive,25,TRUE,TRUE,English,numerical reasoning
+,,,Manager,,,,,French,data interpretation
+,,,Professional,,,,,German,mathematics
+,,,,,,,,Spanish,analytics
+2,Verify Verbal Reasoning,Assesses ability to understand written information and draw logical conclusions. Suitable for roles requiring strong communication.,Graduate,Cognitive,17,TRUE,TRUE,English,verbal reasoning
+,,,Manager,,,,,French,reading comprehension
+,,,Professional,,,,,German,communication
+,,,Director,,,,,Spanish,logical thinking
+,,,,,,,,Chinese,
+3,Verify Inductive Reasoning,Measures ability to identify patterns and relationships in abstract information. Predicts general cognitive ability.,Graduate,Cognitive,25,TRUE,FALSE,English,abstract reasoning
+,,,Professional,,,,,French,pattern recognition
+,,,Manager,,,,,German,problem solving
+,,,,,,,,,logical thinking
+4,OPQ32 Personality Questionnaire,Comprehensive occupational personality questionnaire measuring 32 personality characteristics relevant to workplace performance.,Graduate,Personality,40,TRUE,FALSE,English,personality
+,,,Manager,,,,,French,work style
+,,,Director,,,,,German,leadership
+,,,Professional,,,,,Spanish,teamwork
+,,,Executive,,,,,Chinese,communication
+,,,,,,,,Japanese,
+5,Coding Pro - Python,"Technical assessment for Python developers covering algorithms, data structures, OOP, and real-world coding problems.",Graduate,Technical Skills,60,TRUE,FALSE,English,python
+,,,Professional,,,,,,coding
+,,,,,,,,,algorithms
+,,,,,,,,,software engineering
+,,,,,,,,,data structures
+6,Coding Pro - Java,"Technical coding assessment for Java developers covering OOP concepts, Spring, multithreading, and enterprise patterns.",Graduate,Technical Skills,60,TRUE,FALSE,English,java
+,,,Professional,,,,,,coding
+,,,,,,,,,OOP
+,,,,,,,,,software engineering
+,,,,,,,,,backend development
+7,Situational Judgement Test - Leadership,"Presents realistic workplace scenarios to assess judgment in leadership contexts including team management, conflict resolution and decision-making.",Manager,Situational Judgement,35,TRUE,FALSE,English,leadership
+,,,Director,,,,,French,decision making
+,,,Executive,,,,,German,management
+,,,,,,,,,conflict resolution
+,,,,,,,,,team building
+8,Situational Judgement Test - Customer Service,"Assesses how candidates handle customer-facing situations, measuring empathy, problem solving and service orientation.",Entry Level,Situational Judgement,20,TRUE,FALSE,English,customer service
+,,,Professional,,,,,Spanish,communication
+,,,,,,,,French,empathy
+,,,,,,,,,problem solving
+,,,,,,,,,service orientation
+9,Sales Assessment Battery,"Comprehensive assessment combining personality, ability and situational judgement specifically designed for sales roles.",Entry Level,Battery,50,TRUE,TRUE,English,sales
+,,,Professional,,,,,Spanish,persuasion
+,,,Manager,,,,,,negotiation
+,,,,,,,,,resilience
+,,,,,,,,,customer focus
+10,Graduate Assessment Battery,"Tailored for graduate recruitment, combining numerical, verbal and inductive reasoning with a personality component.",Graduate,Battery,70,TRUE,TRUE,English,graduate
+,,,,,,,,French,reasoning
+,,,,,,,,German,personality
+,,,,,,,,Spanish,potential
+,,,,,,,,,cognitive ability
+11,Verify Interactive - Data Entry,Simulates real data entry tasks to measure speed and accuracy in processing structured information.,Entry Level,Skills,10,TRUE,FALSE,English,data entry
+,,,Professional,,,,,,accuracy
+,,,,,,,,,speed
+,,,,,,,,,attention to detail
+,,,,,,,,,clerical
+12,Motivational Questionnaire,"Identifies what motivates candidates at work across 18 key factors, helping match candidates to the right environment.",Graduate,Motivation,25,TRUE,FALSE,English,motivation
+,,,Professional,,,,,French,engagement
+,,,Manager,,,,,German,culture fit
+,,,Director,,,,,Spanish,values
+,,,,,,,,Chinese,work preferences
+13,Verify Mechanical Comprehension,Measures understanding of mechanical concepts and physical principles. Ideal for engineering and technical roles.,Entry Level,Cognitive,30,TRUE,FALSE,English,mechanical reasoning
+,,,Professional,,,,,German,engineering
+,,,,,,,,,physics
+,,,,,,,,,technical aptitude
+14,Coding Pro - JavaScript,"Evaluates JavaScript and frontend/full-stack skills including DOM manipulation, async programming, and modern frameworks.",Graduate,Technical Skills,60,TRUE,FALSE,English,javascript
+,,,Professional,,,,,,frontend
+,,,,,,,,,web development
+,,,,,,,,,react
+,,,,,,,,,nodejs
+,,,,,,,,,coding
+15,360 Degree Feedback Tool,"Collects structured feedback from peers, managers and direct reports to provide a comprehensive view of leadership effectiveness.",Manager,360 Feedback,30,TRUE,FALSE,English,leadership
+,,,Director,,,,,French,feedback
+,,,Executive,,,,,German,development
+,,,,,,,,Spanish,management
+,,,,,,,,,self-awareness
